@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/foodbasket/static/css/main.34a99e37.css",
-    "main.js": "/foodbasket/static/js/main.0083c6cb.js",
+    "main.js": "/foodbasket/static/js/main.91b13775.js",
     "index.html": "/foodbasket/index.html",
     "main.34a99e37.css.map": "/foodbasket/static/css/main.34a99e37.css.map",
-    "main.0083c6cb.js.map": "/foodbasket/static/js/main.0083c6cb.js.map"
+    "main.91b13775.js.map": "/foodbasket/static/js/main.91b13775.js.map"
   },
   "entrypoints": [
     "static/css/main.34a99e37.css",
-    "static/js/main.0083c6cb.js"
+    "static/js/main.91b13775.js"
   ]
 }
